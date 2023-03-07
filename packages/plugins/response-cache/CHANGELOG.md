@@ -1,5 +1,11 @@
 # @graphql-yoga/plugin-response-cache
 
+## 1.7.3
+
+### Patch Changes
+
+- [#2540](https://github.com/dotansimha/graphql-yoga/pull/2540) [`195dcfb0`](https://github.com/dotansimha/graphql-yoga/commit/195dcfb0a4052ca83a227cdce7f04ddf9fde87eb) Thanks [@ardatan](https://github.com/ardatan)! - Fix `enabled` flag
+
 ## 1.7.2
 
 ### Patch Changes
